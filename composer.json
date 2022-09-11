@@ -1,5 +1,5 @@
 {
-    "name": "ann/flarum-dice",
+    "name": "annonny/flarum-dice",
     "description": "Dice!",
     "keywords": [
         "flarum",
@@ -11,7 +11,7 @@
     },
     "authors": [
         {
-            "name": "ann",
+            "name": "annonny",
             "email": "beautymorax@gmail.com",
             "role": "Developer"
         }
