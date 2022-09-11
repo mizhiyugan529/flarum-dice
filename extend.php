@@ -1,6 +1,6 @@
 <?php
 
-namespace ClarkWinkelmann\RollDie;
+namespace annonny\Dice;
 
 use Flarum\Api\Serializer\PostSerializer;
 use Flarum\Extend;

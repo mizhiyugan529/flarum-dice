@@ -97,7 +97,7 @@ app.initializers.add('roll-die-20', () => {
         const range = this.attrs.composer.editor.getSelectionRange();
         this.attrs.composer.editor.moveCursorTo(range[1] - 7);
       },
-    }, app.translator.trans('ann-dice.forum.tooltip.preview')));
+    }, app.translator.trans('annonny-dice.forum.tooltip.preview')));
   },999);
 }, 999);
 // Priority must be lower than Flarum's flarum-emoji, which has default priority, so any value could work

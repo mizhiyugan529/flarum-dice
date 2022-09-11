@@ -1,5 +1,5 @@
 {
-    "name": "@ann/dice",
+    "name": "@annonny/dice",
     "private": true,
     "dependencies": {
         "flarum-tsconfig": "^1.0",
