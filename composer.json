@@ -1,0 +1,30 @@
+{
+    "name": "ann/flarum-dice",
+    "description": "Dice!",
+    "keywords": [
+        "flarum",
+        "dice"
+    ],
+    "type": "flarum-extension",
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "ann",
+            "email": "beautymorax@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "extra": {
+        "flarum-extension": {
+            "title": "Dice",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-dice",
+                "backgroundColor": "#ffc4ab",
+                "color": "#fff"
+            }
+        }
+    }
+}
