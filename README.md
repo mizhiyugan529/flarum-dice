@@ -8,7 +8,7 @@ Flarum Dice! is modifed from [@clarkwinkelmann/flarum-ext-roll-die](https://gith
 
 Thank him!
 
-###Features
+## Features
 
 - It supports simple dice calculate within three formulas
 - The number of dice cannot be greater than 10.
@@ -17,7 +17,7 @@ Thank him!
 10D10❌)
 - After editing the post, the dice result will not change
 
-###Screenshots:
+## Screenshots:
 
 ![Dice](https://tva1.sinaimg.cn/large/005wpxq8ly1h63pe5jyr8j30s80nmdh3.jpg)
 
