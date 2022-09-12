@@ -6,6 +6,7 @@
         "dice"
     ],
     "type": "flarum-extension",
+    "license": "MIT",
     "require": {
         "flarum/core": "^1.0"
     },
@@ -16,6 +17,9 @@
             "role": "Developer"
         }
     ],
+    "support": {
+        "source": "https://github.com/mizhiyugan529/flarum-dice"
+    },
     "extra": {
         "flarum-extension": {
             "title": "Dice",

@@ -2,5 +2,3 @@ annonny-dice:
     forum:
         tooltip:
             preview: Dice!骰子
-        composer:
-            rollDie: Dice!骰子
